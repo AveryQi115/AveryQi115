@@ -8,5 +8,5 @@
 - ⚡ Fun fact:
   - Really into Frisbee🥏
   - I have the cutest kitten in the world.
-![kitten](kitten.jpg)
+![kitten](kitten.jpg | width=100)
 
