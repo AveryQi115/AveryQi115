@@ -5,5 +5,8 @@
 - 🌱 I’m currently learning Rust and postgreSQL internal.
 - 👯 I’m looking to collaborate on programs related to database or vector search.
 - 📫 How to reach me: haoyuq@cs.cmu.edu/averyqi115@gmail.com
-- ⚡ Fun fact: Really into Frisbee🥏
+- ⚡ Fun fact:
+  - Really into Frisbee🥏
+  - I have the cutest kitten in the world.
+![kitten](./img/kitten.jpg)
 
